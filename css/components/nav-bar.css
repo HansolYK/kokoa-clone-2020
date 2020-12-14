@@ -3,7 +3,7 @@
   bottom: 0;
   width: 100%;
   box-sizing: border-box;
-  background-color: rgba(0, 0, 0, 0.048);
+  background-color: rgb(238, 238, 238);
   padding: 20px 40px;
   border-top: 1px solid rgba(0, 0, 0, 0.103);
 }
